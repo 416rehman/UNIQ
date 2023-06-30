@@ -1,0 +1,3 @@
+[submodule "UNIQWICK"]
+	path = UNIQWICK
+	url = git@github.com:416rehman/UNIQWICK.git
