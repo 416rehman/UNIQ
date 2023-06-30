@@ -1,3 +1,6 @@
 [submodule "UNIQWICK"]
 	path = UNIQWICK
 	url = git@github.com:416rehman/UNIQWICK.git
+[submodule "UNIQWICU"]
+	path = UNIQWICU
+	url = git@github.com:416rehman/UNIQWICU.git
